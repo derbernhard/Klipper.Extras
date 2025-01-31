@@ -3,7 +3,7 @@ Some files that are used in Klipper/Extra <br>
 LPD8806.py - add support for LPD8806 LEDs <br>
 add following config to your klipper: <br>
 <br>
-[LPD8806]< br>
+[LPD8806] <br>
 data_pin: <br>
 clock_pin: <br>
 chain_count: <br>
