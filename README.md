@@ -1,4 +1,4 @@
-Some files that are used in Klipper/Extra <br>
+Some files that are used in klipper/klippy/extras <br>
 <br>
 LPD8806.py - add support for LPD8806 LEDs <br>
 add following config to your klipper: <br>
