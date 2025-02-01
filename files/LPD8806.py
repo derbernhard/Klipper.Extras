@@ -8,7 +8,7 @@
 #
 # [LPD8806]
 # data_pin: 
-# clock_pin: 
+# clock_pin: # must be CLK pin on mc
 # chain_count: 
 # color_order: # add your color order: RGB, RBG, GRB, GBR, BRG or BGR
 # initial_RED: 0.0
